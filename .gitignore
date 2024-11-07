@@ -1,0 +1,6 @@
+.hypothesis
+dataset
+formatted_dataset
+archive.zip
+__pycache__/
+.ipynb_checkpoints
